@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abhijayrawat/"><img alt="LinkedIn" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" /></a>
   <a href="mailto:somilabhijay@gmail.com"><img alt="Gmail" width="50px" src="https://img.icons8.com/color/48/000000/gmail--v1.png"/></a>
-  <a href="https://github.com/abhijayrawat"><img alt="GitHub" width="50px" src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
+<!--   <a href="https://github.com/abhijayrawat"><img alt="GitHub" width="50px" src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a> -->
 </p>
 
 ---
@@ -28,6 +28,7 @@ struct AbhijayRawat {
     vector<string> languages = {"C++", "JavaScript", "Python", "Java"};
     vector<string> tools = {"React", "Node.js", "Express", "MongoDB", "Flask", "TailwindCSS"};
 };
+```
 
 <details> <summary><h2>🛠️ My Favorite Tools</h2></summary>
 👨‍💻 Languages
@@ -38,17 +39,3 @@ struct AbhijayRawat {
 <p> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B.svg?logo=mongodb&logoColor=white"/> </p>
 🧰 Tools
 <p> <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"/> </p> </details>
-<!--
-**abhijayrawat/abhijayrawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
