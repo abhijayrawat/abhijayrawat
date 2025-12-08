@@ -23,7 +23,7 @@
 ```cpp
 struct AbhijayRawat {
     string university = "IIITDM Jabalpur";
-    string role = "3rd Year CSE Undergrad";
+    string role = "CSE Undergrad";
     string passion = "Building impactful full-stack apps + solving DSA problems";
     vector<string> languages = {"C++", "JavaScript", "Python", "Java"};
     vector<string> tools = {"React", "Node.js", "Express", "MongoDB", "Flask", "TailwindCSS"};
